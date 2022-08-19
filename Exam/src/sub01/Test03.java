@@ -23,6 +23,7 @@ public class Test03 {
 		result = --num;
 		System.out.println("result : "+result);
 		
+		System.out.println();
 		
 	}
 
