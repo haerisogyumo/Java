@@ -2,7 +2,7 @@ package sub01;
 /*
  * 날짜 : 2022/08/19
  * 이름 : 진윤희
- * 내용 : Java 삼황연산자 연습문제 
+ * 내용 : Java 자바 반복문 연습문제 
  */
 public class Test08 {
 	public static void main(String[] args) {
