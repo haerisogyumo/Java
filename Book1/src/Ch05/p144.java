@@ -6,7 +6,7 @@ public class p144 {
 		int studentID;
 		String studentName;
 		int grade;
-		String address;
+		String address; 
 		
 		public String getStudentName() {
 			return studentName;
@@ -19,7 +19,7 @@ public class p144 {
 					System.out.println(studentAhn.studentName);
 					System.out.println(studentAhn.getStudentName());
 					
-		}		
+		}
 		
 	}
 
