@@ -32,7 +32,8 @@ public class MethodTest {
 		int t1 = sum(1, 10/*인자값,Argument*/);
 		int t2 = sum(1, 100);
 		
-		
+		System.out.println("t1 : "+r1 );
+		System.out.println("t2 : "+r2 );
 		
 		
 		
