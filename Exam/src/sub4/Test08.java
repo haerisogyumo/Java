@@ -11,7 +11,7 @@ import java.util.TreeSet;
  */
 public class Test08 {
 	public static void main(String[] args) {
-		
+	
 		
 		for(int count=1; count <=5; count++) {
 			System.out.println(makeLotto());
